@@ -111,29 +111,3 @@ Uptime: 12.4 hours
 ==============================
 ```
 
-## Concepts Demonstrated
-
-* Linux `/proc` filesystem
-* C++ file I/O
-* Linux process representation
-* CPU utilization calculation using time deltas
-* Filesystem traversal with `std::filesystem`
-* Docker containers
-* CMake build configuration
-* Running C++ applications in a Linux environment
-
-## Future Improvements
-
-Potential improvements include:
-
-* Display memory utilization as a percentage
-* Show the top CPU-consuming processes
-* Add per-process memory statistics
-* Improve terminal rendering
-* Add command-line configuration options
-* Export monitoring data to a log file
-* Add automated tests
-
-## Resume Value
-
-This project was designed as a focused introduction to Linux systems programming and demonstrates how user-space C++ applications can retrieve and process information exposed by the Linux kernel.
